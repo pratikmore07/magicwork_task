@@ -1,0 +1,26 @@
+
+.navimg{ padding: 40px; background: #f3f3f3;  padding-left: 150px; overflow: hidden;}
+.nav-link{  color: #f3f3f3; font-weight: 500; font-style: 15px;}
+.herosec{background:#f3f3f3; }
+#carouselExampleDark{width: 940px; margin-left: 170px; }
+.carousel-caption{ color: aliceblue;  }
+.sec1card{  margin-left: 170px;}
+.sec2{ background-color: #333333;}
+.sec2h4{ color:  #2dc0e3;}
+#cardp{ background-color: #f3ffe6;}
+.card-body span{ color: chartreuse;}
+.sec3img{height: 100px; width: 300px;}
+.sec3btn{background-color:#80db1e; padding: 10px 20px; border: 2px solid black;}
+.sec4{ background-image: url(./img/image111.jpg); background-attachment: fixed; background-size: cover; height: 500px;}
+.sec4h1{font-size: 40px;}
+.sec_4{ margin-left: 100px;}
+.text-decoration li{  list-style-type: none;}
+.footer{  background-color: #333333; }
+iframe{margin-left: 100px;}
+form{width: 430px;}
+.nurcebtn{ background-color: #f7941d; border: 0px; width: 200px;}
+ .counter{ background-color:#333333;}
+ .value{   color:white;    font-size: 70px;    margin-left: 70px;  }
+  .small{background-color: #f3f3f3;}
+.mapbut{width: 430px;}
+.footup{ background-image: url(./img/mapimg.jpeg); border-image-width: 100%; background-size: cover;   background-attachment: fixed;}
